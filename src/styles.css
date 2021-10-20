@@ -1,0 +1,58 @@
+h1 {
+  text-align: center;
+}
+
+.search {
+  text-align: center;
+}
+.card {
+  padding: 48px;
+}
+.main-degree {
+  font-size: 40px;
+}
+.second-degree {
+  font-size: 24px;
+}
+.left {
+  position: relative;
+  right: 85px;
+}
+.right {
+  position: relative;
+  left: 85px;
+}
+.other {
+  font-size: 18px;
+  padding: 30px;
+}
+.feel {
+  position: relative;
+  right: 90px;
+}
+.chance {
+  position: relative;
+}
+.humidity {
+  position: relative;
+  left: 90px;
+}
+.forecast {
+  position: relative;
+  right: -40px;
+  margin: 45px 0;
+}
+.predictions {
+  position: relative;
+  right: -42px;
+}
+.small {
+  font-size: 18px;
+  position: relative;
+  top: -16px;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
